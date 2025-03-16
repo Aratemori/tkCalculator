@@ -11,10 +11,6 @@ def main():
     # functional
     global a,b
         # buttons with numbers
-
-    def add_digit(digit):
-        ent.insert(END, str(digit))
-
     def NineAdd():
         ent.insert(END, "9")
     def EightAdd():
