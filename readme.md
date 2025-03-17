@@ -7,6 +7,6 @@ It is a simple calculator which written for school (pet-project). I know, it is 
 ___
 
 # How to install
-`git clone https://github.com/Aratemori/tkCalculator .`
+`git clone https://github.com/Aratemori/tkCalculator`
 `cd tkCalculator`
 `python main.py`
